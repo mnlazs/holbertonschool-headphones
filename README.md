@@ -44,7 +44,8 @@ Interactions note:
 ## Requirements
 - you are not allowed to import external CSS framework (like Bootstrap)
 - you are not to use Javascript
-
+<br>
+<br>
 <img src="images/image.jpg" align="center" />
 
 
