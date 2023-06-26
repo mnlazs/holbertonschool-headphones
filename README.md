@@ -45,7 +45,7 @@ Interactions note:
 - you are not allowed to import external CSS framework (like Bootstrap)
 - you are not to use Javascript
 
-<img src="image.jpeg" align="center" />
+<img src="images/image.jpeg" align="center" />
 
 
 ## Author
